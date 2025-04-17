@@ -34,7 +34,19 @@ netflix-clone-html-css/
 
 ## 📸 Screenshots
 
-![screenshot](https://github.com/AlfishanShaikh/Restaurant-Landing-Page/blob/a6ced6585d5e36a3fb07981c68a5077a35e32e12/screenshot%201.png)
+![screenshot](https://github.com/AlfishanShaikh/netflix-clone-html-css/blob/35b47658fc5702a31355b4cfdc8638b552d3c404/screenshot%201.png)
+
+---
+
+![screenshot](https://github.com/AlfishanShaikh/netflix-clone-html-css/blob/35b47658fc5702a31355b4cfdc8638b552d3c404/screenshot%202.png)
+
+---
+
+![screenshot](https://github.com/AlfishanShaikh/netflix-clone-html-css/blob/35b47658fc5702a31355b4cfdc8638b552d3c404/screenshot%203.png)
+
+---
+
+![screenshot](https://github.com/AlfishanShaikh/netflix-clone-html-css/blob/35b47658fc5702a31355b4cfdc8638b552d3c404/screenshot%205.png)
 
 ---
 
